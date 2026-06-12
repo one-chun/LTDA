@@ -42,6 +42,6 @@ options:
 ```
 ### Sample command for training and testing
 ```
-python3 main.py -m bfs -t LTDA -i data/27K.txt -i4 features/27K -o test -e 100 -mainfold Hyperboloid
+python3 main.py -m bfs -t LTDA -i data/27K.txt -i4 features/27K -o test -e 100 
 ```
 
